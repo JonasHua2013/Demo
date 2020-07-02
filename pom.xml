@@ -87,7 +87,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.15</version>
+            <version>8.0.16</version>
         </dependency>
 
         <!--Swagger-UI依赖-->
@@ -151,7 +151,7 @@
                     <dependency>
                         <groupId>mysql</groupId>
                         <artifactId>mysql-connector-java</artifactId>
-                        <version>8.0.15</version>
+                        <version>8.0.16</version>
                     </dependency>
                     <!--自动生成更加便捷的代码插件。如：selectOneByExample-->
                     <dependency>
